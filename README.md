@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento (Adobe Commerce) Certified Expert Developer.
 
-My journey commenced when I discovered my passion for website development at the young age of 16. My unwavering commitment and desire for learning led me towards becoming a full-time Magento developer in 2014.
+My journey commenced when I discovered my passion for website development at the young age of 16. My unwavering commitment and desire for learning led me towards becoming a full-time Magento developer in 2014. With nearly a decade of intensive experience, my expertise spans across both backend and frontend development.
+
+What makes me different from other developers is unlike many developers who work with multiple platforms like Laravel, Drupal, WordPress, Shopify, Big Commerce, etc, I focus exclusively on Magento. I'm not afraid to tackle difficult tasks or issues that others may shy away from.
 
 My passion is working with Magento and helping others in the Magento community. In my free time, I contribute to the Magento core code, Magento Developer Official documents, and assist the community on Magento Stack Exchange and in several Slack groups dedicated to the Magento community.
 
