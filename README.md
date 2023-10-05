@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and Adobe Commerce Certified Expert Developer,
+Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and Adobe Commerce Certified Expert Developer.
 
 I first discovered my passion for website development at the age of 16 and have been hooked ever since. As a Magento and Adobe Commerce Certified Expert Developer, I have honed my skills to become a leading expert in the platform. With nearly a decade of intensive experience, my expertise spans across both backend and frontend development. I am highly skilled in troubleshooting and resolving bugs.
 
