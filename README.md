@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento (Adobe Commerce) Certified Expert Developer.
+Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and Adobe Commerce Certified Expert Developer,
 
-My journey commenced when I discovered my passion for website development at the young age of 16. My unwavering commitment and desire for learning led me towards becoming a full-time Magento developer in 2014. With nearly a decade of intensive experience, my expertise spans across both backend and frontend development.
+I first discovered my passion for website development at the age of 16 and have been hooked ever since. As a Magento and Adobe Commerce Certified Expert Developer, I have honed my skills to become a leading expert in the platform. With nearly a decade of intensive experience, my expertise spans across both backend and frontend development. I am highly skilled in troubleshooting and resolving bugs.
 
-What makes me different from other developers is unlike many developers who work with multiple platforms like Laravel, Drupal, WordPress, Shopify, Big Commerce, etc, I focus exclusively on Magento. I'm not afraid to tackle difficult tasks or issues that others may shy away from.
+What sets me apart from other developers is my undivided attention to Magento, and I'm not hesitant to tackle challenging tasks or issues that others may shy away from. Unlike many developers who work with multiple platforms such as Laravel, Drupal, WordPress, Shopify, Big Commerce, etc., I specialize solely in Magento.
 
-My passion is working with Magento and helping others in the Magento community. In my free time, I contribute to the Magento core code, Magento Developer Official documents, and assist the community on Magento Stack Exchange and in several Slack groups dedicated to the Magento community.
+My passion is working with Magento and helping others in the Magento community. In my free time, I contribute to the Magento community by contributing to the Magento core code, Magento Developer Official documents, and assisting the community on Magento Stack Exchange and in several Slack groups dedicated to Magento.
 
 I share Magento tutorials, tips, tricks, and security updates through my blog at https://magetu.com/
 
