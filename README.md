@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and Adobe Commerce Certified Expert Developer.
 
-I first discovered my passion for website development at the age of 16 and have been hooked ever since. As a Magento and Adobe Commerce Certified Expert Developer, I have honed my skills to become a leading expert in the platform. With nearly a decade of intensive experience, my expertise spans across both backend and frontend development. I am highly skilled in troubleshooting and resolving bugs.
+I discovered my passion for website development when I was 16 years old and have been dedicated to it ever since. I have honed my skills to become a leading expert in the platform. Consequently, I had the privilege to collaborate with industry expert Mark Shust, where I currently serve as the Magento Tech Guru at M.Academy. Additionally, I have achieved the Adobe Commerce Developer Expert with Cloud Add-on certification.
 
-What sets me apart from other developers is my undivided attention to Magento, and I'm not hesitant to tackle challenging tasks or issues that others may shy away from. Unlike many developers who work with multiple platforms such as Laravel, Drupal, WordPress, Shopify, Big Commerce, etc., I specialize solely in Magento.
+With almost 10 years of experience, I am skilled in both backend and frontend development, but my main focus and specialization lie in backend development. I have a strong ability to troubleshoot and fix bugs.
+I take great pride in my attention to detail, ensuring accuracy and precision in every aspect of my work. I am able to work well in team environments and also work independently.
 
-My passion is working with Magento and helping others in the Magento community. In my free time, I contribute to the Magento community by contributing to the Magento core code, Magento Developer Official documents, and assisting the community on Magento Stack Exchange and in several Slack groups dedicated to Magento.
+What sets me apart from other developers is my exclusive focus on Magento. I am not hesitant to tackle challenging tasks or issues that others may shy away from. While many developers work with multiple platforms such as Laravel, Drupal, WordPress, Shopify, Big Commerce, etc., I specialize solely in Magento. I follow Magento's coding standards and best practices to ensure secure and maintainable code.
+
+My passion is working with Magento and helping others in the Magento community. I contribute to the Magento codebase, Magento Developer Official documents, and provide support on platforms such as Magento Stack Exchange and various Magento-dedicated Slack groups.
+
+For the past seven years, I have exclusively worked remotely and full-time for various agencies in the UK.
 
 I share Magento tutorials, tips, tricks, and security updates through my blog at https://magetu.com/
 
