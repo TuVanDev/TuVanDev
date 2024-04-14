@@ -18,7 +18,7 @@ Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and 
 
 I discovered my passion for website development when I was 16 years old and have been dedicated to it ever since. I have honed my skills to become a leading expert in the platform. Consequently, I had the privilege to collaborate with industry expert Mark Shust, where I currently serve as the Magento Tech Guru at M.Academy. Additionally, I have achieved the Adobe Commerce Developer Expert with Cloud Add-on certification.
 
-With almost 10 years of experience, I am skilled in both backend and frontend development, but my main focus and specialization lie in backend development. I have a strong ability to troubleshoot and fix bugs.
+With 10 years of experience, I am skilled in both backend and frontend development, but my main focus and specialization lie in backend development. I have a strong ability to troubleshoot and fix bugs.
 I take great pride in my attention to detail, ensuring accuracy and precision in every aspect of my work. I am able to work well in team environments and also work independently.
 
 What sets me apart from other developers is my exclusive focus on Magento. I am not hesitant to tackle challenging tasks or issues that others may shy away from. While many developers work with multiple platforms such as Laravel, Drupal, WordPress, Shopify, Big Commerce, etc., I specialize solely in Magento. I follow Magento's coding standards and best practices to ensure secure and maintainable code.
@@ -32,7 +32,7 @@ I share Magento tutorials, tips, tricks, and security updates through my blog at
 Connect with me on LinkedIn https://www.linkedin.com/in/tu-van-dinh/  
 Contact for work: vandinhtuit@gmail.com
 
-Are you encountering difficulties with the upgrade of your Magento version to 2.4.6 or 2.4.5 or 2.4.4, which uses PHP 8.1? I have prepared a step-by-step guide to assist you with the upgrade process:  
+Are you encountering difficulties with the upgrade of your Magento version to 2.4.7 or 2.4.6, which requires PHP 8? I have created a detailed step-by-step guide to assist you through the upgrade process:  
 https://magetu.com/how-to-upgrade-to-magento-version-2-4-6-or-2-4-5-or-2-4-4/. If you continue to experience issues, please leave a comment in the post, and I will be happy to help.
 
 I would like to draw your attention to the following topics, which may be helpful to you:
