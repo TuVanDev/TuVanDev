@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey everyone! I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and Adobe Commerce Certified Expert Developer.
+I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and Adobe Commerce Certified Expert Developer.
 
-I discovered my passion for website development when I was 16 years old and have been dedicated to it ever since. I have honed my skills to become a leading expert in the platform. Consequently, I had the privilege to collaborate with industry expert Mark Shust, where I currently serve as the Magento Tech Guru at M.Academy. Additionally, I have achieved the Adobe Commerce Developer Expert with Cloud Add-on certification.
+At 16, I unearthed my passion for website development, a journey that has been the cornerstone of my career ever since. Specializing in Magento and Adobe Commerce development, I have consistently refined my skills, earning recognition as an authority in the field. Collaborating closely with influential figures like Mark Shust, a luminary in the Magento ecosystem, I now prodly hold the position of Magento Tech Guruat M.Academy. Remarkably, I achieved the esteemed Adobe Commerce Developer Expert with Cloud Add-on certification through dedicated self-study, practical experience and perseverance, bypassing the reliance on popular paid preparation courses and guides for exam success.
+
 
 With 10 years of experience, I am skilled in both backend and frontend development, but my main focus and specialization lie in backend development. I have a strong ability to troubleshoot and fix bugs.
 I take great pride in my attention to detail, ensuring accuracy and precision in every aspect of my work. I am able to work well in team environments and also work independently.
@@ -25,12 +26,16 @@ What sets me apart from other developers is my exclusive focus on Magento. I am 
 
 My passion is working with Magento and helping others in the Magento community. I contribute to the Magento codebase, Magento Developer Official documents, and provide support on platforms such as Magento Stack Exchange and various Magento-dedicated Slack groups.
 
-For the past seven years, I have exclusively worked remotely and full-time for various agencies in the UK.
+I also share Magento tutorials, tips, tricks, and security updates through my blog at https://magetu.com
 
-I share Magento tutorials, tips, tricks, and security updates through my blog at https://magetu.com/
+For the past eight years, I have exclusively worked remotely and full-time for various agencies in the UK.
+
+:earth_americas: I offer Magento development support and consulting services to store owners, managers, Magento developers, and agencies worldwide, including those in the US, UK, AU, and Europe.
+
+:star: I am currently open to new opportunities for a full-time Senior Magento Developer position or freelance work.
 
 Connect with me on LinkedIn https://www.linkedin.com/in/tu-van-dinh/  
-Contact for work: vandinhtuit@gmail.com
+:mailbox: Contact for work: vandinhtuit@gmail.com
 
 Are you encountering difficulties with the upgrade of your Magento version to 2.4.7 or 2.4.6, which requires PHP 8? I have created a detailed step-by-step guide to assist you through the upgrade process:  
 https://magetu.com/how-to-upgrade-to-magento-version-2-4-6-or-2-4-5-or-2-4-4/. If you continue to experience issues, please leave a comment in the post, and I will be happy to help.
