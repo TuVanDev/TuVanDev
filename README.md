@@ -32,8 +32,6 @@ For the past eight years, I have exclusively worked remotely and full-time for v
 
 :earth_americas: I offer Magento development support and consulting services to store owners, managers, Magento developers, and agencies worldwide, including those in the US, UK, AU, and Europe.
 
-:star: I am currently open to new opportunities for a full-time Senior Magento Developer position or freelance work.
-
 Connect with me on LinkedIn https://www.linkedin.com/in/tu-van-dinh/  
 :mailbox: Contact for work: vandinhtuit@gmail.com
 
