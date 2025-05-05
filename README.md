@@ -19,7 +19,7 @@ I'm Tu, the Magento Tech Guru at [M.academy][1] and a Magento and Adobe Commerce
 At 16, I unearthed my passion for website development, a journey that has been the cornerstone of my career ever since. Specializing in Magento and Adobe Commerce development, I have consistently refined my skills, earning recognition as an authority in the field. Collaborating closely with influential figures like Mark Shust, a luminary in the Magento ecosystem, I now prodly hold the position of Magento Tech Guruat M.Academy. Remarkably, I achieved the esteemed Adobe Commerce Developer Expert with Cloud Add-on certification through dedicated self-study, practical experience and perseverance, bypassing the reliance on popular paid preparation courses and guides for exam success.
 
 
-With 10 years of experience, I am skilled in both backend and frontend development, but my main focus and specialization lie in backend development. I have a strong ability to troubleshoot and fix bugs.
+With over a decade of experience, I am skilled in both backend and frontend development, but my main focus and specialization lie in backend development. I have a strong ability to troubleshoot and fix bugs.
 I take great pride in my attention to detail, ensuring accuracy and precision in every aspect of my work. I am able to work well in team environments and also work independently.
 
 What sets me apart from other developers is my exclusive focus on Magento. I am not hesitant to tackle challenging tasks or issues that others may shy away from. While many developers work with multiple platforms such as Laravel, Drupal, WordPress, Shopify, Big Commerce, etc., I specialize solely in Magento. I follow Magento's coding standards and best practices to ensure secure and maintainable code.
@@ -28,7 +28,7 @@ My passion is working with Magento and helping others in the Magento community. 
 
 I also share Magento tutorials, tips, tricks, and security updates through my blog at https://magetu.com
 
-For the past eight years, I have exclusively worked remotely and full-time for various agencies in the UK.
+For the past nine years, I have worked exclusively remotely and full-time for various agencies in the UK and US.
 
 :earth_americas: I offer Magento development support and consulting services to store owners, managers, Magento developers, and agencies worldwide, including those in the US, UK, AU, and Europe.
 
